@@ -22,9 +22,9 @@ AWS Projects:</h2>
 - <b>AWS Solutions Architect</b>
   - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
        
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [WTF Cybersecurity Advocacy](https://drive.google.com/drive/folders/1N9FFuOjoqhkANkMf0s8zPUHMfw7QrXzE?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
