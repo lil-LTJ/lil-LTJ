@@ -9,15 +9,14 @@
  <a href="mailto:lilly.adjei@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-<h5>🏆 Check Out My Full Portfolio Website(https://lil-ltj.github.io/)<h5>
-
 ## 🚀 About Me
 I'm a GRC and cybersecurity geek who loves building secure, compliant cloud environments on AWS. I get excited about automating security controls and translating complex regulations like SOC 2 into practical solutions that actually work.
 
 My sweet spot is where security meets business operations - whether it's designing zero-trust architectures, streamlining product security processes, or making compliance less painful through automation. I speak both technical and business languages fluently.
 
 When I'm not securing cloud infrastructures or geeking out over Terraform scripts, you'll find me exploring new tech tools, mentoring aspiring cybersecurity pros, or probably over-caffeinating while reading the latest AWS security updates. I live for those "lightbulb moments" when security, compliance, and business goals all align perfectly.
+<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+<h5>🏆 Check Out My Full Portfolio Website(https://lil-ltj.github.io/)<h5>
 
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1b22c154-ddfc-44fc-84f1-b97c596828a1" />
 Governance, Risk & Compliance (GRC) Projects:</h2>
