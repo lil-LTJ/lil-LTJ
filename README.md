@@ -35,6 +35,12 @@ AWS Projects:</h2>
   - [Practicing S3](https://github.com/lil-LTJ/awsS3appHosting)
 
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc0c1323-514e-4460-b5e4-866f18467487" />
+Cybersecurity Projects:</h2>
+
+- <b></b>
+  - []()
+
+<h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc0c1323-514e-4460-b5e4-866f18467487" />
 Other Projects:</h2>
 
 - <b>Product Management - Blockchain School Managent Platform </b>
