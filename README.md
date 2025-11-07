@@ -1,18 +1,21 @@
 <h1>Hi, I'm Lilly! <br/> <a href="https://www.linkedin.com/in/lillyadjei/">GRC- Cybersecurity Analyst</a>, <a href="https://github.com/joshmadakor1">AWS Solutions Architect</a>, <a href="https://www.linkedin.com/in/lillyadjei/">Business Operations Manager</a>
 
-<h2>👨‍💻 Governance, Risk & Compliance (GRC) Projects:</h2>
+<h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1b22c154-ddfc-44fc-84f1-b97c596828a1" />
+Governance, Risk & Compliance (GRC) Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2>👨‍💻 AWS Projects:</h2>
+<h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc0c1323-514e-4460-b5e4-866f18467487" />
+AWS Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
     
-<h2>👨‍💻 Certifications:</h2>
+<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/677ed115-ac6f-4f3a-a618-62fc7f9c5bb8" />
+ Certifications:</h2>
 
 - <b>AWS Solutions Architect</b>
   - [Azubi & Generations Ghana Sponsored](https://github.com/joshmadakor1/Algorithms-Practice)
