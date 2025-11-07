@@ -6,8 +6,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/lillyadjei/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:lilly.adjei@gmail.com?subject=Interest%20in%20Your%20GRC%20Expertise&body=Hi%20Lilly,%0A%0AI%20saw%20your%20portfolio%20and%20would%20like%20to%20connect...">
-</a> </a><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:lilly.adjei@gmail.com">Email me at lilly.adjei@gmail.com</a><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1b22c154-ddfc-44fc-84f1-b97c596828a1" />
