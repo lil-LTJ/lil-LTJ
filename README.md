@@ -33,7 +33,13 @@ AWS Projects:</h2>
   - [Serverless Text-to-Speech Converter](https://github.com/lil-LTJ/polly-azubi-project/tree/main)
 - <b>Host a Static Website on Amazon S3</b>
   - [Practicing S3](https://github.com/lil-LTJ/awsS3appHosting)
-    
+
+<h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc0c1323-514e-4460-b5e4-866f18467487" />
+Other Projects:</h2>
+
+- <b>Product Management - School WEB3</b>
+  - [Blockchain School Managent Platform](https://www.canva.com/design/DAGpbdLwWd0/D74JMdUTLUOVzoDzMYXCyQ/edit?utm_content=DAGpbdLwWd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/677ed115-ac6f-4f3a-a618-62fc7f9c5bb8" />
  Certifications:</h2>
 
