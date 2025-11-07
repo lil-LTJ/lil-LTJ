@@ -22,7 +22,7 @@ AWS Projects:</h2>
 - <b>AWS Solutions Architect</b>
   - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
        
-<h2>📺 Videos</h2>
+<h2>📺 Pictures & Videos</h2>
 
 - [WTF Cybersecurity Advocacy](https://drive.google.com/drive/folders/1N9FFuOjoqhkANkMf0s8zPUHMfw7QrXzE?usp=sharing)
 
