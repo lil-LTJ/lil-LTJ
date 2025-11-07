@@ -12,7 +12,7 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 AWS Projects:</h2>
 
 - <b>Host a Static Website on Amazon S3</b>
-  - [Serverless Text-to-Speech Converter](https://github.com/lil-LTJ/polly-azubi-project/tree/main))
+  - [Serverless Text-to-Speech Converter](https://github.com/lil-LTJ/polly-azubi-project/tree/main)
 - <b>Host a Static Website on Amazon S3</b>
   - [Practicing S3](https://github.com/lil-LTJ/awsS3appHosting)
     
