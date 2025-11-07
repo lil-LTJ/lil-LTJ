@@ -9,11 +9,6 @@
   <a href="mailto:lilly.adjei@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<a href="https://www.linkedin.com/in/lillyadjei/" style="font-size: 8px;">GRC-Cybersecurity Analyst</a>, 
-<a href="https://www.linkedin.com/in/lillyadjei/" style="font-size: 8px;">AWS Solutions Architect</a>, 
-<a href="https://www.linkedin.com/in/lillyadjei/" style="font-size: 8px;">Business Operations Manager</a>
-
-
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1b22c154-ddfc-44fc-84f1-b97c596828a1" />
 Governance, Risk & Compliance (GRC) Projects:</h2>
 
