@@ -11,8 +11,10 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc0c1323-514e-4460-b5e4-866f18467487" />
 AWS Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Host a Static Website on Amazon S3</b>
+  - [Serverless Text-to-Speech Converter](https://github.com/lil-LTJ/polly-azubi-project/tree/main))
+- <b>Host a Static Website on Amazon S3</b>
+  - [Practicing S3](https://github.com/lil-LTJ/awsS3appHosting)
     
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/677ed115-ac6f-4f3a-a618-62fc7f9c5bb8" />
  Certifications:</h2>
