@@ -1,5 +1,4 @@
-<h1>Hi, I'm Lilly! <br/> <a href="https://www.linkedin.com/in/lillyadjei/">GRC- Cybersecurity Analyst</a>, <a href="https://github.com/joshmadakor1">AWS Solutions Architect</a>, <a href="https://www.linkedin.com/in/lillyadjei/">Business Operations Manager</a>
-
+<h1>Hi, I'm Lilly! 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=800&color=FF6B6B&center=true&vCenter=true&width=435&lines=🛡️+GRC+%7C+Cybersecurity+%7C+AWS+SAA;🚀+Product+%26+Business+Operations;☁️+Cloud+Security+%26+Compliance+Automation;🔍+Risk+Management+%26+Security+Strategy" alt="Typing SVG" />
 </div>
@@ -10,6 +9,9 @@
   <a href="mailto:lilly.adjei@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
+<a href="https://www.linkedin.com/in/lillyadjei/" style="font-size: 8px;">GRC-Cybersecurity Analyst</a>, 
+<a href="https://github.com/joshmadakor1" style="font-size: 14px;">AWS Solutions Architect</a>, 
+<a href="https://www.linkedin.com/in/lillyadjei/" style="font-size: 14px;">Business Operations Manager</a>
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1b22c154-ddfc-44fc-84f1-b97c596828a1" />
 Governance, Risk & Compliance (GRC) Projects:</h2>
 
