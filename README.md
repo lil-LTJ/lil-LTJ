@@ -78,7 +78,7 @@ Other Projects:</h2>
 
 <h2>📺 Pictures & Videos</h2>
 
-- [WTF Cybersecurity Advocacy-2025](https://drive.google.com/drive/folders/1N9FFuOjoqhkANkMf0s8zPUHMfw7QrXzE?usp=sharing)
+- [WTF Cybersecurity Advocacy-2025](https://drive.google.com/drive/folders/1Gp55JkmZ9kzQHSEPf0_ILQ9P2YTup4dD?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
