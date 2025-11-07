@@ -52,6 +52,10 @@ Other Projects:</h2>
 - <b>AWS Knowledge: Cloud Essentials - Training Badge</b>
   - [AWS Skills Builder](https://www.credly.com/badges/b489bc99-4f03-47b3-a640-7ee993103ca1/public_url)
 
+- <b>ISO/IEC 27001:2022 Lead Auditor</b>
+  - [Mastermind Assurance](https://www.credly.com/badges/e38218e4-b320-4a00-b512-33d52a414b4b/public_url)
+
+
 <h2> 🛠️ Technical Skillset:</h2>
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 🔒 Cybersecurity & GRC
