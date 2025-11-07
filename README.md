@@ -20,7 +20,7 @@ AWS Projects:</h2>
  Certifications:</h2>
 
 - <b>AWS Solutions Architect</b>
-  - [Azubi & Generations Ghana Sponsored](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
        
 <h2>📺 Popular YouTube Videos</h2>
 
