@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lilly! <h1>
+<h1 align="center">Hi, I'm Lilly! <h1>
 <div align="center" style="width: 100%; max-width: 1400px; margin: 0 auto;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=800&color=FF6B6B&center=true&vCenter=true&width=435&lines=🛡️+GRC+%7C+Cybersecurity+%7C+AWS+SAA;🚀+Product+%26+Business+Operations;☁️+Cloud+Security+%26+Compliance+Automation;🔍+Risk+Management+%26+Security+Strategy" alt="Typing SVG" />
 </div>
