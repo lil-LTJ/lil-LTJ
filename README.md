@@ -46,7 +46,11 @@ Other Projects:</h2>
 - <b>AWS Solutions Architect</b>
   - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
 
+<h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09745f30-ca47-437b-bd16-6bf0a5589a51" />
+ Badges:</h2>
 
+- <b>AWS Knowledge: Cloud Essentials - Training Badge</b>
+  - [AWS Skills Builder](https://www.credly.com/badges/b489bc99-4f03-47b3-a640-7ee993103ca1/public_url)
 
 <h2> 🛠️ Technical Skillset:</h2>
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
