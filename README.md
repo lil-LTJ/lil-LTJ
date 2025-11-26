@@ -46,6 +46,9 @@ Other Projects:</h2>
 - <b>Product Management - Blockchain School Managent Platform </b>
   - [School WEB3](https://www.canva.com/design/DAGpbdLwWd0/D74JMdUTLUOVzoDzMYXCyQ/edit?utm_content=DAGpbdLwWd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- <b>Compliance Nuggets </b>
+  - [Fun project](https://github.com/lil-LTJ/Compliance_nuggets-.git)
+
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/677ed115-ac6f-4f3a-a618-62fc7f9c5bb8" />
  Certifications:</h2>
 
