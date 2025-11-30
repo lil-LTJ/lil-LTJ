@@ -45,6 +45,10 @@ Other Projects:</h2>
 
 - <b>Product Management - Blockchain School Managent Platform </b>
   - [School WEB3](https://www.canva.com/design/DAGpbdLwWd0/D74JMdUTLUOVzoDzMYXCyQ/edit?utm_content=DAGpbdLwWd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  “SchoolWeb3” School Management Platform- Talents Factory Project (Link)                                                            February,2025
+•	Spearheaded a market research initiative (30+ user surveys) into blockchain technology to implement SchoolWeb3, resolving critical issues around document tamper-proofing and data integrity.
+•	Authored and delivered a comprehensive Product Requirements Document (PRD), leveraging Figma for wireframing and Jira for feature backlog and project tracking.
+
 
 - <b>Compliance Nuggets </b>
   - [Fun project](https://github.com/lil-LTJ/Compliance_nuggets-.git)
