@@ -25,13 +25,24 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
   - 1 <b> Crisis Communication & Stakeholder Management </b>
       - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
       - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
-          - <b> Type : Individual & Group Lab </b>
+          
     - <b> Core Competencies </b>
       - Designing end-to-end communication frameworks, governance structures, and SCCT-aligned strategies to classify and mitigate organizational risk. 
       - Executing rapid-response communication protocols across multi-channel environments (social, internal, media) under strict 15-20-60-90 minute timelines. 
       - Harmonizing communication strategy with Incident Response (IR) and Business Continuity (BCP/DR) workflows, validated through rigorous testing and simulation.
    
    - 2 <b>  </b>
+
+- <b>Introduction to Governance, Risk, and Compliance</b>
+  - 1 <b> GRC Frameworks and Principles </b>
+      - [Introduction to Governance, Risk and Compliance (Theoritical lab)](https://drive.google.com/file/d/1Q1wUqpgYQd5Ikf3MFmcx3juWviemfF78/view?usp=drive_link)
+      - [Designing a GRC Framework for Tech company (Practical lab)](https://drive.google.com/file/d/1oXWiAXCpJRV4FGd4AWHK_gNPns6KEZgJ/view?usp=drive_link)
+         
+    - <b> Core Competencies </b>
+      - Foundational GRC Knowledge: Ability to explain core Governance, Risk, and Compliance (GRC) concepts and compare the applications of established GRC frameworks.
+      - Risk Analysis & Critical Evaluation: Skill in identifying and analyzing security/compliance risks within a business context, using critical thinking to assess GRC implementations and gaps.
+      - Practical Solution Design: Experience applying GRC principles to design practical, risk-based solutions and controls tailored to real-world industry scenarios, such as fintech.
+
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
