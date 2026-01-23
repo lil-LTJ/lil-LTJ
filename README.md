@@ -127,7 +127,6 @@ Other Projects:</h2>
 <p> <img src="https://img.shields.io/badge/NIST%20RMF-Implemented-FFA500?style=flat&logo=nist&logoColor=white" alt="NIST RMF Badge"> <img src="https://img.shields.io/badge/Tenable-Scanning-8B5CF6?style=flat&logo=tenable&logoColor=white" alt="Tenable Badge"> <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2E9EF7?style=flat&logo=nmap&logoColor=white" alt="Nmap Badge"> <img src="https://img.shields.io/badge/Security%20Hub-Monitoring-FF6B6B?style=flat&logo=aws-security-hub&logoColor=white" alt="Security Hub Badge"> <img src="https://img.shields.io/badge/Control%20Tower-Governance-00D26A?style=flat&logo=aws-control-tower&logoColor=white" alt="Control Tower Badge"> </p>
 
 <h2>📺 Pictures & Videos</h2- Community projects>
-
 - [WTF Cybersecurity Advocacy-2025](https://drive.google.com/drive/folders/1Gp55JkmZ9kzQHSEPf0_ILQ9P2YTup4dD?usp=sharing)
 - [Amazon Web Services & Github Training Session ICDFA Class A -2025](https://drive.google.com/drive/folders/1PRYKtTQe-9j7ZRHGESZxF7JytL5kFYjR?usp=drive_link)
 
