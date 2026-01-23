@@ -27,9 +27,9 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
   - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
 
  - <b> Core Competencies </b>
-- <b>Designing end-to-end communication frameworks, governance structures, and SCCT-aligned strategies to classify and mitigate organizational risk.<b>
-- <b>Executing rapid-response communication protocols across multi-channel environments (social, internal, media) under strict 15-20-60-90 minute timelines.<b>
-- <b>Harmonizing communication strategy with Incident Response (IR) and Business Continuity (BCP/DR) workflows, validated through rigorous testing and simulation.<b>
+  - Designing end-to-end communication frameworks, governance structures, and SCCT-aligned strategies to classify and mitigate organizational risk.
+  - Executing rapid-response communication protocols across multi-channel environments (social, internal, media) under strict 15-20-60-90 minute timelines.
+  - Harmonizing communication strategy with Incident Response (IR) and Business Continuity (BCP/DR) workflows, validated through rigorous testing and simulation.
 
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
