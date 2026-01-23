@@ -22,7 +22,7 @@ When I'm not securing cloud infrastructures or geeking out over Terraform script
 Governance, Risk & Compliance (GRC) Projects:</h2>
 
 - <b>Incident Management and Business Continuity</b>
-    - 1. <b> Crisis Communication & Stakeholder Management </b>
+  - 1. <b> Crisis Communication & Stakeholder Management </b>
       - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
       - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
           - <b> Type : Individual & Group Lab </b>
