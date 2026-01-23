@@ -55,6 +55,7 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
       - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link)
          
     - <b> Core Competencies </b>
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
