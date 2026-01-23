@@ -24,8 +24,7 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 - <b>Incident Management and Business Continuity</b>
   - 1 <b> Crisis Communication & Stakeholder Management </b>
       - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
-      - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
-          
+      - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)  
     - <b> Core Competencies </b>
       - Designing end-to-end communication frameworks, governance structures, and SCCT-aligned strategies to classify and mitigate organizational risk. 
       - Executing rapid-response communication protocols across multi-channel environments (social, internal, media) under strict 15-20-60-90 minute timelines. 
@@ -36,8 +35,7 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 - <b>Introduction to Governance, Risk, and Compliance</b>
   - 1 <b> GRC Frameworks and Principles </b>
       - [Introduction to Governance, Risk and Compliance (Theoritical lab)](https://drive.google.com/file/d/1Q1wUqpgYQd5Ikf3MFmcx3juWviemfF78/view?usp=drive_link)
-      - [Designing a GRC Framework for Tech company (Practical lab)](https://drive.google.com/file/d/1oXWiAXCpJRV4FGd4AWHK_gNPns6KEZgJ/view?usp=drive_link)
-         
+      - [Designing a GRC Framework for Tech company (Practical lab)](https://drive.google.com/file/d/1oXWiAXCpJRV4FGd4AWHK_gNPns6KEZgJ/view?usp=drive_link)  
     - <b> Core Competencies </b>
       - Foundational GRC Knowledge: Ability to explain core Governance, Risk, and Compliance (GRC) concepts and compare the applications of established GRC frameworks.
       - Risk Analysis & Critical Evaluation: Skill in identifying and analyzing security/compliance risks within a business context, using critical thinking to assess GRC implementations and gaps.
@@ -45,15 +43,13 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 
   - 2 <b> Regulatory Environment and Standards </b>
       - [Theory-Based lab](https://drive.google.com/file/d/1AvDsc9icqmyGzAQ6zElkR8QjWmE6wlR0/view?usp=sharing)
-      - [Scenario-Based lab](https://drive.google.com/file/d/1Xr5SpwAVDLOhRdynU796dl-oZ8_xD28R/view?usp=drive_link)
-         
+      - [Scenario-Based lab](https://drive.google.com/file/d/1Xr5SpwAVDLOhRdynU796dl-oZ8_xD28R/view?usp=drive_link)  
     - <b> Core Competencies </b>
          - GDPR   - ISO 27001   - PCI-DSS   - SOC 2
          - Ability to interpret and apply core concepts from established regulatory standards to real-world scenarios.
 
   - 3 <b> Risk Management Fundamentals </b>
-      - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link)
-         
+      - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link) 
     - <b> Core Competencies </b>
 
        | Skill Area       | What I Can Do |          
