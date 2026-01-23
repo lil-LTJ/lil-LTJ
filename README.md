@@ -44,16 +44,26 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
       - Practical Solution Design: Experience applying GRC principles to design practical, risk-based solutions and controls tailored to real-world industry scenarios, such as fintech.
 
   - 2 <b> Regulatory Environment and Standards </b>
-      - [Theory-Based](https://drive.google.com/file/d/1AvDsc9icqmyGzAQ6zElkR8QjWmE6wlR0/view?usp=sharing)
-      - [Scenario-Based](https://drive.google.com/file/d/1Xr5SpwAVDLOhRdynU796dl-oZ8_xD28R/view?usp=drive_link)
+      - [Theory-Based lab](https://drive.google.com/file/d/1AvDsc9icqmyGzAQ6zElkR8QjWmE6wlR0/view?usp=sharing)
+      - [Scenario-Based lab](https://drive.google.com/file/d/1Xr5SpwAVDLOhRdynU796dl-oZ8_xD28R/view?usp=drive_link)
          
     - <b> Core Competencies </b>
          - GDPR   - ISO 27001   - PCI-DSS   - SOC 2
          - Ability to interpret and apply core concepts from established regulatory standards to real-world scenarios.
 
+  - 3 <b> Risk Management Fundamentals </b>
+      - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link)
+         
+    - <b> Core Competencies </b>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
+        
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
