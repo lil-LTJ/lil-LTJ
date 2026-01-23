@@ -94,7 +94,7 @@ Other Projects:</h2>
 
 
 - <b>Compliance Nuggets </b>
-  - [Fun project](https://github.com/lil-LTJ/Compliance_nuggets-.git)
+  - [Security: Hosting website on Amazon S3 ](https://github.com/lil-LTJ/Compliance_nuggets-.git)
 
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/677ed115-ac6f-4f3a-a618-62fc7f9c5bb8" />
  Certifications:</h2>
