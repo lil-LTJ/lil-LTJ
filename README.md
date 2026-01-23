@@ -91,7 +91,6 @@ Other Projects:</h2>
   “SchoolWeb3” School Management Platform- Talents Factory Project (Link)                                                            February,2025
 •	Spearheaded a market research initiative (30+ user surveys) into blockchain technology to implement SchoolWeb3, resolving critical issues around document tamper-proofing and data integrity.
 •	Authored and delivered a comprehensive Product Requirements Document (PRD), leveraging Figma for wireframing and Jira for feature backlog and project tracking.
-
 - <b>Compliance Nuggets </b>
   - [Security: Hosting website on Amazon S3 ](https://github.com/lil-LTJ/Compliance_nuggets-.git)
 
