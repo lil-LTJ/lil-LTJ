@@ -49,9 +49,8 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
          - Ability to interpret and apply core concepts from established regulatory standards to real-world scenarios.
 
   - 3 <b> Risk Management Fundamentals </b>
-      - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link) 
+       - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link) 
     - <b> Core Competencies </b>
-
        | Skill Area       | What I Can Do |          
        | -------------    |:-------------:| 
        | Risk Discovery   | Find and categorize business & cyber threats before they happen.| 
