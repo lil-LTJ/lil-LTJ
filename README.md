@@ -62,7 +62,13 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
        | Data Analysis    | Use logic and risk matrices to rank which problems need the most attention.     |   
        | Action Planning  | Design and implement plans to fix or manage risks to keep a company safe.      |    
 
-
+  - 4 <b> Complaince Management Planning </b>
+      - [Simulated-Based lab](https://drive.google.com/file/d/1Y8kLxn0kuPfFyDu3WJbfJv72beU5zBEg/view?usp=sharing) 
+    - <b> Core Competencies </b>
+         - Designing a full compliance program from scratch to fix critical gaps in policy, training, oversight, and technology.
+         - Managing regulatory pressure and stakeholder concerns by creating a prioritized action plan that meets urgent legal deadlines and rebuilds trust.
+         - Operationalizing compliance by building practical systems for monitoring, reporting, and training that integrate with business growth.
+         
 
         
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
