@@ -22,11 +22,11 @@ When I'm not securing cloud infrastructures or geeking out over Terraform script
 Governance, Risk & Compliance (GRC) Projects:</h2>
 
 - <b>Incident Management and Business Continuity</b>
-  - <b> Type : Individual & Group Lab </b>
-   - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
-  - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
+    - <b> Type : Individual & Group Lab </b>
+     - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
+     - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
 
-   - <b> Core Competencies </b>
+    - <b> Core Competencies </b>
      - Designing end-to-end communication frameworks, governance structures, and SCCT-aligned strategies to classify and mitigate organizational risk. 
      - Executing rapid-response communication protocols across multi-channel environments (social, internal, media) under strict 15-20-60-90 minute timelines. 
      - Harmonizing communication strategy with Incident Response (IR) and Business Continuity (BCP/DR) workflows, validated through rigorous testing and simulation.
