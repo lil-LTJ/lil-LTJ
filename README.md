@@ -43,6 +43,16 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
       - Risk Analysis & Critical Evaluation: Skill in identifying and analyzing security/compliance risks within a business context, using critical thinking to assess GRC implementations and gaps.
       - Practical Solution Design: Experience applying GRC principles to design practical, risk-based solutions and controls tailored to real-world industry scenarios, such as fintech.
 
+  - 2 <b> Regulatory Environment and Standards </b>
+      - [Theory-Based](https://drive.google.com/file/d/1AvDsc9icqmyGzAQ6zElkR8QjWmE6wlR0/view?usp=sharing)
+      - [Scenario-Based](https://drive.google.com/file/d/1Xr5SpwAVDLOhRdynU796dl-oZ8_xD28R/view?usp=drive_link)
+         
+    - <b> Core Competencies </b>
+         - GDPR   - ISO 27001   - PCI-DSS   - SOC 2
+         - Ability to interpret and apply core concepts from established regulatory standards to real-world scenarios.
+
+
+
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
