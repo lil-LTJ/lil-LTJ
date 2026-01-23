@@ -92,7 +92,6 @@ Other Projects:</h2>
 •	Spearheaded a market research initiative (30+ user surveys) into blockchain technology to implement SchoolWeb3, resolving critical issues around document tamper-proofing and data integrity.
 •	Authored and delivered a comprehensive Product Requirements Document (PRD), leveraging Figma for wireframing and Jira for feature backlog and project tracking.
 
-
 - <b>Compliance Nuggets </b>
   - [Security: Hosting website on Amazon S3 ](https://github.com/lil-LTJ/Compliance_nuggets-.git)
 
@@ -100,10 +99,10 @@ Other Projects:</h2>
  Certifications:</h2>
 
 - <b>Official : AWS Solutions Architect</b>
-  - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
-
+   - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
+  
 - <b>ISO 27001 & ISO 42001 Lead Implementer </b>
-  - [ICDFA Sponsored](https://drive.google.com/file/d/15h58g3MrhdypRRt_9wefkbyJXwBH9rsr/view?usp=drive_link)
+   - [ICDFA Sponsored](https://drive.google.com/file/d/15h58g3MrhdypRRt_9wefkbyJXwBH9rsr/view?usp=drive_link)
 
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09745f30-ca47-437b-bd16-6bf0a5589a51" />
  Badges:</h2>
