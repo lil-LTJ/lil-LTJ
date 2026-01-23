@@ -22,7 +22,7 @@ When I'm not securing cloud infrastructures or geeking out over Terraform script
 Governance, Risk & Compliance (GRC) Projects:</h2>
 
 - <b>Incident Management and Business Continuity</b>
-  - 1 <b> Crisis Communication & Stakeholder Management </b>
+   - 1 <b> Crisis Communication & Stakeholder Management </b>
       - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
       - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)  
     - <b> Core Competencies </b>
@@ -54,9 +54,9 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 
        | Skill Area       | What I Can Do |          
        | -------------    |:-------------:| 
-       | Risk Discovery   | Find and categorize business & cyber threats before they happen. | 
-       | Data Analysis    | Use logic and risk matrices to rank which problems need the most attention.     |   
-       | Action Planning  | Design and implement plans to fix or manage risks to keep a company safe.      |    
+       | Risk Discovery   | Find and categorize business & cyber threats before they happen.| 
+       | Data Analysis    | Use logic and risk matrices to rank which problems need the most attention.|   
+       | Action Planning  | Design and implement plans to fix or manage risks to keep a company safe.|    
 
   - 4 <b> Complaince Management Planning </b>
       - [Simulated-Based lab](https://drive.google.com/file/d/1Y8kLxn0kuPfFyDu3WJbfJv72beU5zBEg/view?usp=sharing) 
