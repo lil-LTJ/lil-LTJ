@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lilly! <h1>
 <div align="center" style="width: 200%; max-width: 1400px; margin: 0 auto;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=800&color=FF6B6B&center=true&vCenter=true&width=435&lines=🛡️+GRC+Engineering;🔭+Cybersecurity+%26+AWS+SAA;🚀+Product+%26+Business+Operations;☁️+Cloud+Security;+Compliance+Automation;🔍+Risk+Management+%26+Security+Strategy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=800&color=FF6B6B&center=true&vCenter=true&width=435&lines=🛡️+GRC+Engineering;🔭+Cybersecurity+%26+AWS+SAA;🚀+Product+%26+Business+Operations;☁️+Cloud+Security;+🏆+Compliance+Automation;🔍+Risk+Management;+📊+Security+Strategy" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -153,4 +153,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/2bee56f3-966d-4d36-a3ee-ce65ab83a71e" />
+
