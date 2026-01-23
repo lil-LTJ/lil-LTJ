@@ -23,8 +23,8 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 
 - <b>Incident Management and Business Continuity</b>
   - <b> Type : Individual & Group Lab </b>
-  - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management(Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
-  - [Crisis Communication Simulation- Data Breach Response(Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
+   - [Crisis Communication Simulation- Crisis Communication and Stakeholder Management (Individual lab)](https://docs.google.com/document/d/1le14QtA1bpv5D-QF0UnFhKn4sf1r3c8Pk6QUdftLOW4/edit?usp=drive_link)
+  - [Crisis Communication Simulation- Data Breach Response (Group lab)](https://drive.google.com/drive/folders/1Wg5VP88QJwWcp9Q78V_n-dcbBPAwYkU6?usp=drive_link)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
