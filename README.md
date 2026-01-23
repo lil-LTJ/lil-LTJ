@@ -56,11 +56,11 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
          
     - <b> Core Competencies </b>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Skill Area       | What I Can Do |          
+| ------------- |:-------------:| 
+| Risk Discovery      | Find and categorize business & cyber threats before they happen. | 
+| Data Analysis      | Use logic and risk matrices to rank which problems need the most attention.     |   
+| Action Planning | Design and implement plans to fix or manage risks to keep a company safe.      |    
 
 
 
