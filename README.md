@@ -99,8 +99,11 @@ Other Projects:</h2>
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/677ed115-ac6f-4f3a-a618-62fc7f9c5bb8" />
  Certifications:</h2>
 
-- <b>AWS Solutions Architect</b>
+- <b>Official : AWS Solutions Architect</b>
   - [Azubi & Generations Ghana Sponsored](https://drive.google.com/file/d/1PGc2iRZfDxZAzE3cDVr5myAzSJFsbr15/view?usp=sharing)
+
+- <b>ISO 27001 & ISO 42001 Lead Implementer </b>
+  - [ICDFA Sponsored](https://drive.google.com/file/d/15h58g3MrhdypRRt_9wefkbyJXwBH9rsr/view?usp=drive_link)
 
 <h2><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09745f30-ca47-437b-bd16-6bf0a5589a51" />
  Badges:</h2>
@@ -109,6 +112,8 @@ Other Projects:</h2>
   - [AWS Skills Builder](https://www.credly.com/badges/b489bc99-4f03-47b3-a640-7ee993103ca1/public_url)
 - <b>ISO/IEC 27001:2022 Lead Auditor</b>
   - [Mastermind Assurance](https://www.credly.com/badges/e38218e4-b320-4a00-b512-33d52a414b4b/public_url)
+- <b>ISO/IEC 42001:2023 Lead Auditor</b>
+  - [Mastermind Assurance](https://www.credly.com/badges/49e1d4f6-af7f-41a6-a9c6-acd6558e59a3/public_url)
 - <b>CyberOps Associate</b>
   - [Cisco](https://www.credly.com/badges/b019dff5-5139-4af1-b5f7-6fb54cad0c42/public_url)
 
