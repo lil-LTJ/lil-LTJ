@@ -41,8 +41,8 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 - <b>Developing Security Policies</b>
     - <b> GRC Frameworks and Principles </b>
        - [Information security governance and policy development (Group-based lab)](https://drive.google.com/file/d/1jzhKo4PyXw3zIzjbmbpzzxqrAwjCz7_W/view?usp=drive_link)  
-    - <b> Core Competencies </b>
-       - Drafting Specialized Controls: Writing clear, enforceable rules for modern technical challenges, including cloud security, mobile device management (BYOD), and data privacy laws like GDPR.
+       - <b> Core Competencies </b>
+          - Drafting Specialized Controls: Writing clear, enforceable rules for modern technical challenges, including cloud security, mobile device management (BYOD), and data privacy laws like GDPR.
 
 - <b>Introduction to Governance, Risk, and Compliance</b>
   - 1 <b> GRC Frameworks and Principles </b>
@@ -63,11 +63,11 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
   - 3 <b> Risk Management Fundamentals </b>
        - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link) 
        - <b> Core Competencies </b>
-       | Skill Area       | What I Can Do |          
-       | -------------    |:-------------:| 
-       | Risk Discovery   | Find and categorize business & cyber threats before they happen.| 
-       | Data Analysis    | Use logic and risk matrices to rank which problems need the most attention.|   
-       | Action Planning  | Design and implement plans to fix or manage risks to keep a company safe.|    
+          | Skill Area       | What I Can Do |          
+          | -------------    |:-------------:| 
+          | Risk Discovery   | Find and categorize business & cyber threats before they happen.| 
+          | Data Analysis    | Use logic and risk matrices to rank which problems need the most attention.|   
+          | Action Planning  | Design and implement plans to fix or manage risks to keep a company safe.|    
 
   - 4 <b> Complaince Management Planning </b>
       - [Simulated-Based lab](https://drive.google.com/file/d/1Y8kLxn0kuPfFyDu3WJbfJv72beU5zBEg/view?usp=sharing) 
