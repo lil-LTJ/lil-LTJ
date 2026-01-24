@@ -32,6 +32,12 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
    
    - 2 <b>  </b>
 
+- <b>Developing Security Policies</b>
+    - 1 <b> GRC Frameworks and Principles </b>
+       - [Information security governance and policy development (Group-based lab)](https://drive.google.com/file/d/1Q1wUqpgYQd5Ikf3MFmcx3juWviemfF78/view?usp=drive_link)  
+    - <b> Core Competencies </b>
+       - Drafting Specialized Controls: Writing clear, enforceable rules for modern technical challenges, including cloud security, mobile device management (BYOD), and data privacy laws like GDPR.
+
 - <b>Introduction to Governance, Risk, and Compliance</b>
   - 1 <b> GRC Frameworks and Principles </b>
       - [Introduction to Governance, Risk and Compliance (Theoritical lab)](https://drive.google.com/file/d/1Q1wUqpgYQd5Ikf3MFmcx3juWviemfF78/view?usp=drive_link)
