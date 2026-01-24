@@ -48,21 +48,21 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
   - 1 <b> GRC Frameworks and Principles </b>
       - [Introduction to Governance, Risk and Compliance (Theoritical lab)](https://drive.google.com/file/d/1Q1wUqpgYQd5Ikf3MFmcx3juWviemfF78/view?usp=drive_link)
       - [Designing a GRC Framework for Tech company (Practical lab)](https://drive.google.com/file/d/1oXWiAXCpJRV4FGd4AWHK_gNPns6KEZgJ/view?usp=drive_link)  
-    - <b> Core Competencies </b>
-      - Foundational GRC Knowledge: Ability to explain core Governance, Risk, and Compliance (GRC) concepts and compare the applications of established GRC frameworks.
-      - Risk Analysis & Critical Evaluation: Skill in identifying and analyzing security/compliance risks within a business context, using critical thinking to assess GRC implementations and gaps.
-      - Practical Solution Design: Experience applying GRC principles to design practical, risk-based solutions and controls tailored to real-world industry scenarios, such as fintech.
+      - <b> Core Competencies </b>
+         - Foundational GRC Knowledge: Ability to explain core Governance, Risk, and Compliance (GRC) concepts and compare the applications of established GRC frameworks.
+         - Risk Analysis & Critical Evaluation: Skill in identifying and analyzing security/compliance risks within a business context, using critical thinking to assess GRC implementations and gaps.
+         - Practical Solution Design: Experience applying GRC principles to design practical, risk-based solutions and controls tailored to real-world industry scenarios, such as fintech.
 
   - 2 <b> Regulatory Environment and Standards </b>
       - [Theory-Based lab](https://drive.google.com/file/d/1AvDsc9icqmyGzAQ6zElkR8QjWmE6wlR0/view?usp=sharing)
       - [Scenario-Based lab](https://drive.google.com/file/d/1Xr5SpwAVDLOhRdynU796dl-oZ8_xD28R/view?usp=drive_link)  
-    - <b> Core Competencies </b>
+      - <b> Core Competencies </b>
          - GDPR   - ISO 27001   - PCI-DSS   - SOC 2
          - Ability to interpret and apply core concepts from established regulatory standards to real-world scenarios.
 
   - 3 <b> Risk Management Fundamentals </b>
        - [Scenario-Based lab](https://drive.google.com/file/d/1OOX0bv5b9wiyy9dQLNaUEhmpCiZUi5ZE/view?usp=drive_link) 
-    - <b> Core Competencies </b>
+       - <b> Core Competencies </b>
        | Skill Area       | What I Can Do |          
        | -------------    |:-------------:| 
        | Risk Discovery   | Find and categorize business & cyber threats before they happen.| 
@@ -71,7 +71,7 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
 
   - 4 <b> Complaince Management Planning </b>
       - [Simulated-Based lab](https://drive.google.com/file/d/1Y8kLxn0kuPfFyDu3WJbfJv72beU5zBEg/view?usp=sharing) 
-    - <b> Core Competencies </b>
+      - <b> Core Competencies </b>
          - Designing a full compliance program from scratch to fix critical gaps in policy, training, oversight, and technology.
          - Managing regulatory pressure and stakeholder concerns by creating a prioritized action plan that meets urgent legal deadlines and rebuilds trust.
          - Operationalizing compliance by building practical systems for monitoring, reporting, and training that integrate with business growth.
