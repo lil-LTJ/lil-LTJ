@@ -32,9 +32,15 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
    
    - 2 <b>  </b>
 
-- <b>Developing Security Policies</b>
+- <b>Log analysis</b>
     - 1 <b> GRC Frameworks and Principles </b>
-       - [Information security governance and policy development (Group-based lab)](https://drive.google.com/file/d/1Q1wUqpgYQd5Ikf3MFmcx3juWviemfF78/view?usp=drive_link)  
+       - [Linux Security Monitoring & Auditing:(Group-based lab)](https://drive.google.com/file/d/1Cix5y2Pm3-WwgIMIIatolhJfRCNcfclj/view?usp=sharing)  
+    - <b> Core Competencies </b>
+        - Analyzed SIEM security logs to identify authentication failures and vulnerabilities, producing professional reports with step-by-step security fixes.
+
+- <b>Developing Security Policies</b>
+    - <b> GRC Frameworks and Principles </b>
+       - [Information security governance and policy development (Group-based lab)](https://drive.google.com/file/d/1jzhKo4PyXw3zIzjbmbpzzxqrAwjCz7_W/view?usp=drive_link)  
     - <b> Core Competencies </b>
        - Drafting Specialized Controls: Writing clear, enforceable rules for modern technical challenges, including cloud security, mobile device management (BYOD), and data privacy laws like GDPR.
 
@@ -137,7 +143,7 @@ Other Projects:</h2>
 <h2>📺 Community projects-Pictures & Videos</h2>
 
 - [WTF Cybersecurity Advocacy-2025](https://drive.google.com/drive/folders/1Gp55JkmZ9kzQHSEPf0_ILQ9P2YTup4dD?usp=sharing)
-- [Amazon Web Services & Github Training Session ICDFA Class A -2025](https://drive.google.com/drive/folders/1PRYKtTQe-9j7ZRHGESZxF7JytL5kFYjR?usp=drive_link)
+- [Amazon Web Services & Github Training Session ICDFA Class A -2025 (Attendance-50+)](https://drive.google.com/drive/folders/1PRYKtTQe-9j7ZRHGESZxF7JytL5kFYjR?usp=drive_link)
 
 <h2> 🤳 Connect with me:</h2>
 
