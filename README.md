@@ -75,11 +75,7 @@ Governance, Risk & Compliance (GRC) Projects:</h2>
          - Designing a full compliance program from scratch to fix critical gaps in policy, training, oversight, and technology.
          - Managing regulatory pressure and stakeholder concerns by creating a prioritized action plan that meets urgent legal deadlines and rebuilds trust.
          - Operationalizing compliance by building practical systems for monitoring, reporting, and training that integrate with business growth.
-         
-
-        
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+    
 
 <h2> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc0c1323-514e-4460-b5e4-866f18467487" />
 AWS Projects:</h2>
